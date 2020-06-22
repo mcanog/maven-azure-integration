@@ -1,4 +1,4 @@
-# Integration of a Maven project with
+# Integration of a Maven project with SonarCloud and Azure
 
 This projects shows how the integration of a Maven project works with SonarCloud. To run:
 
